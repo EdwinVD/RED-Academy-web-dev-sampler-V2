@@ -317,22 +317,15 @@ Doctypes have a long and complicated history on the web.
 
 The important thing to know is that the doctype declaration is not an HTML tag, but rather tells the browser which version of HTML the webpage uses.
 
----
-
-# Then & Now...
-
+Then & Now...
 **XHTML:**
-
 ```html
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 ```
-
 **HTML5:**
-
 ```html
 <!DOCTYPE html>
 ```
-
 ---
 
 # Where Does It Go?
