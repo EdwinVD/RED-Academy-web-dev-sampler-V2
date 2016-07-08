@@ -14,17 +14,16 @@ layout: false
 # Housekeeping
 
 - Slides:<br />
-  http://edwinvd.github.io/RED-Academy-web-dev-sampler-V2
+ http://edwinvd.github.io/web-dev-sampler-master-V2/
 - Wifi: **CORP_RED** / Password: **RedAdademy!#**
-- Stuff we use in this class:
- Some good (free) code editor options include:
- Sublime Text or Atom (Mac or Windows)
- Text Wrangler (Mac)
- Notepad++ (Windows)
+- Stuff we use in this class. (FREE) code editor like:<br />
+  **[Sublime Text](http://www.sublimetext.com/)** or **[Atom](https://atom.io/)** (Mac or Windows)<br />
+  **[Text Wrangler](http://www.barebones.com/products/textwrangler/)** (Mac)<br />
+  **[Notepad++](https://notepad-plus-plus.org/)** (Windows)<br />
 
 ---
 
-# Agenda (6&ndash;6:30 p.m.)
+# Agenda (6:00 - 6:30 p.m.)
 
 - What do web developers do?
 - Where do they work?
