@@ -24,7 +24,7 @@ layout: false
 
 ---
 
-# Agenda (6:00 - 6:30 p.m.)
+# Agenda (6&ndash;6:30 p.m.)
 
 - What do web developers do?
 - Where do they work?
