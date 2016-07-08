@@ -13,8 +13,13 @@ layout: false
 
 # Housekeeping
 
-- Slides: http://redacademy.github.io/web-dev-sampler/
-- Wifi: **RA_Student** / Password: **RA_Learning**
+- Slides: http://edwinvd.github.io/web-dev-sampler-master-V2/
+- Wifi: **CORP_RED** / Password: **RedAdademy!#**
+- Stuff we use in this class:
+ Some good (free) code editor options include:
+ Sublime Text or Atom (Mac or Windows)
+ Text Wrangler (Mac)
+ Notepad++ (Windows)
 
 ---
 
