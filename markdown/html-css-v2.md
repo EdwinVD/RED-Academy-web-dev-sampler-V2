@@ -13,13 +13,28 @@ layout: false
 
 # Housekeeping
 
-- Slides: http://redacademy.github.io/web-dev-sampler/
-- Wifi: **RA_Student** / Password: **RA_Learning**
+- Slides: http://edwinvd.github.io/web-dev-sampler-master-V2/
+- Wifi: **CORP_RED** / Password: **RedAdademy!#**
+- Stuff we use in this class:
+ Some good (free) code editor options include:
+ Sublime Text or Atom (Mac or Windows)
+ Text Wrangler (Mac)
+ Notepad++ (Windows)
 
 ---
 
-# Agenda (6&ndash;7:00 p.m.)
+# Agenda (6:00 - 6:30 p.m.)
 
+- What do web developers do?
+- Where do they work?
+- The best part...community!
+- What makes a great developer?
+- Learning resources
+- Q & A
+
+---
+
+# Agenda (6:30 - 7:00 p.m.)
 - What is HTML?
 - Elements & Attributes
 - Creating a Webpage
@@ -302,22 +317,14 @@ Doctypes have a long and complicated history on the web.
 
 The important thing to know is that the doctype declaration is not an HTML tag, but rather tells the browser which version of HTML the webpage uses.
 
----
-
-# Then & Now...
-
-**XHTML:**
-
+**XHTML:** (Then)
 ```html
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 ```
-
-**HTML5:**
-
+**HTML5:** (Now)
 ```html
 <!DOCTYPE html>
 ```
-
 ---
 
 # Where Does It Go?
