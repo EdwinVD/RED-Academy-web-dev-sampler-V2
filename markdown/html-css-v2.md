@@ -13,7 +13,7 @@ layout: false
 
 # Housekeeping
 
-- Slides:
+- Slides:<br />
  http://edwinvd.github.io/web-dev-sampler-master-V2/
 - Wifi: **CORP_RED** / Password: **RedAdademy!#**
 - Stuff we use in this class:
