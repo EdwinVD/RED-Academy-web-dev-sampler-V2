@@ -23,7 +23,7 @@ layout: false
 
 ---
 
-# Agenda (6&ndash;6:30 pm)
+# Agenda (6 - 6:30 pm)
 
 - What do web developers do?
 - Where do they work?
@@ -43,7 +43,7 @@ layout: false
 
 ---
 
-# Agenda (7&ndash;8:00 pm)
+# Agenda (7 - 8:00 pm)
 
 - What is CSS?
 - Adding CSS to your website
