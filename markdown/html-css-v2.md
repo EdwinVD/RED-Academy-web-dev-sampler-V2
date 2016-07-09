@@ -113,14 +113,6 @@ A **markup language** provides a set of rules for how we use characters and symb
 HTML simply tells our browser how to structure the text and media on a webpage.
 
 ---
-
-# But Why Do We Need It?
-
-- We need to mark-up our document for it to be properly formatted
-- When you add formatting in Word, etc. you're marking that document up too
-- If you view the source code of a non-marked up document, the browser will replace all of the whitespace with just a single space
-
----
 template: inverse
 
 # Elements & Attributes
