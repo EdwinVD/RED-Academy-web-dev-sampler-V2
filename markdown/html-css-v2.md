@@ -92,20 +92,6 @@ It helps us describe the structure of webpage, and its connections with other we
 Hypertext also relates to **hyperlinks**, which also applies to media and non‐text links, such as images or buttons.
 
 ---
-class: center, middle
-
-.inline-images[
-   ![Traditional documents](img/slide-assets/html-traditional-doc.svg)
-]
-
----
-class: center, middle
-
-.inline-images[
-   ![HyperText documents](img/slide-assets/html-hypertext-doc.svg)
-]
-
----
 
 # HTML Defined
 
@@ -251,33 +237,6 @@ When you name a file `index.html` (most) web servers will automatically know tha
 
 ---
 
-# One Folder = One Site
-
-Before long, you're going to want to add additional pages to your site, or other files (like images).
-
-To keep all of those HTML files and your other webpage assets organized, you'll want to set up a folder somewhere on your computer.
-
-We call this the **root folder** of your project. You can name it anything you'd like and it can contain any number of sub‐folders to further organize your files.
-
----
-class: center, middle
-
-.inline-images[
-   ![Root folders](img/slide-assets/html-folder-structure.png)
-]
-
----
-
-#  New Site = New Folder
-
-You'll also want to create a new `root folder` for each *different* website that you build:
-
-.inline-images[
-   ![Root folders](img/slide-assets/html-multiple-sites.svg)
-]
-
----
-
 # File/Folder Naming Tips
 
 Use these sanity-saving tips to name your folders and files:
@@ -288,43 +247,11 @@ Use these sanity-saving tips to name your folders and files:
 - Choose logical and descriptive names for files and folders
 
 ---
-template: inverse
+class: center, middle
 
-# Doctypes
-
----
-
-# A Little Bit of History
-
-Doctypes have a long and complicated history on the web.
-
-The important thing to know is that the doctype declaration is not an HTML tag, but rather tells the browser which version of HTML the webpage uses.
-
-**XHTML:** (Then)
-```html
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-```
-**HTML5:** (Now)
-```html
-<!DOCTYPE html>
-```
----
-
-# Where Does It Go?
-
-Doctype declarations go at the top of your `.html` files:
-
-```html
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>This is the Page Title</title>
-   </head>
-   <body>
-      <p>This is a paragraph.</p>
-   </body>
-</html>
-```
+.inline-images[
+   ![Root folders](img/slide-assets/html-folder-structure.png)
+]
 
 ---
 template: inverse
