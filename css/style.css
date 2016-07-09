@@ -103,6 +103,14 @@ a {
     background-repeat: no-repeat;
 }
 
+.subcontainertitle {
+     width: 100%;
+     text-align: center;
+     color: white;
+     font-weight: bolder;
+
+}
+
 @media (min-width: 38em) {
    .container {
       max-width: 32rem;
