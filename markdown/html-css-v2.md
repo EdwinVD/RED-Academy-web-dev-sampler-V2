@@ -16,7 +16,7 @@ layout: false
 
 - Slides:<br />
 https://edwinvd.github.io/RED-Academy-web-dev-sampler-V2
-- Wifi: **CORP_RED** / Password: **RedAdademy!#**
+- Wifi: **RA_Student** / Password: **RA_Learning#**
 - Stuff we use in this class. (FREE) code editor like:<br />
   **[Sublime Text](http://www.sublimetext.com/)** or **[Atom](https://atom.io/)** (Mac or Windows)<br />
   **[Text Wrangler](http://www.barebones.com/products/textwrangler/)** (Mac)<br />
