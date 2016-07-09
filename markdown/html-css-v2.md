@@ -148,19 +148,9 @@ If we wanted to markup a paragraph in HTML, our code would look like this:
 Notice that the text is wrapped in `<p>` tags, and the closing tag contains a `/` (e.g. `</p>`) after the opening angle bracket.
 
 *Element tags almost always come in pairs.*
-
-For a full list of elements, check out the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
----
-
-# A Basic Element
-
 And if we want to add a second paragraph, we'll enclose its text inside of its own set of `p` tags:
 
-```html
-<p>The quick brown fox jumps over the lazy dog.</p>
-<p>Grumpy wizards make toxic brew for the evil Queen and Jack.</p>
-```
+For a full list of elements, check out the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
 ---
 
