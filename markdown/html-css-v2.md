@@ -23,7 +23,7 @@ layout: false
 
 ---
 
-# Agenda (6:00 - 6:30 p.m.)
+# Agenda (6&ndash;6:30 p.m.)
 
 - What do web developers do?
 - Where do they work?
@@ -34,7 +34,7 @@ layout: false
 
 ---
 
-# Agenda (6:30 - 7:00 p.m.)
+# Agenda (6:30 - 7 p.m.)
 - What is HTML?
 - Elements & Attributes
 - Creating a Webpage
