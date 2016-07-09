@@ -6,7 +6,8 @@ class: center, middle, inverse
 
 # Dive Into HTML & CSS
 
-.title-logo[![Red logo](img/red-logo-white.svg)] Toronto - Version 2
+.title-logo[![Red logo](img/red-logo-white.svg)]
+Toronto - Version 2
 
 ---
 layout: false
@@ -460,20 +461,6 @@ class: center, middle
 CSS stands for **Cascading Style Sheets**.
 
 CSS describes how an HTML element will be rendered on a screen. In other words, it allows us to add **styles** to our HTML.
-
----
-
-# Before CSS...
-
-In the old days, we used to add styles to our websites like this:
-
-```html
-<p>
-   <font face="Arial" color="red" size="2">Some text...</font>
-</p>
-```
-
-Now imagine a large website with dozens of pages...can you see a major flaw in styling a website this way?
 
 ---
 class: center, middle
