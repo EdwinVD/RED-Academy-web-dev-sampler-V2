@@ -473,16 +473,6 @@ class: center, middle
 
 ---
 
-# CSS to the Rescue
-
-CSS allows us to abstract presentation details away from the content and structure of our HTML.
-
-That makes it much easier to globally add and change styles for our websites.
-
-*So let's take a look at how it works...*
-
----
-
 template: inverse
 
 # Adding CSS to Your Website
