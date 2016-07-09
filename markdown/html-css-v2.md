@@ -129,7 +129,7 @@ class: center, middle
 
 # Using HTML Elements
 
-HTML elements are surrounded with angle brackets so the browser know how to distinguish them from the text that we actually see on a webpage.
+HTML elements are surrounded with *angle brackets* so the browser know how to distinguish them from the text that we actually see on a webpage.
 
 Based on what the browser sees in the angle brackets, it knows how to render the structural format of the page.
 
