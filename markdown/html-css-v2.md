@@ -208,6 +208,7 @@ Some good (free) code editor options include:
 Virtually all websites share the same basic structure. They contain a `<head>` and a `<body>`, and those two elements are wrapped in `<html>` tags:
 
 ```html
+<!DOCTYPE html>
 <html>
    <head>
       <title>This is the Page Title</title>
