@@ -15,7 +15,7 @@ layout: false
 # Housekeeping
 
 - Slides:<br />
- https://edwinvd.github.io/RED-Academy-web-dev-sampler-V2
+https://edwinvd.github.io/RED-Academy-web-dev-sampler-V2
 - Wifi: **CORP_RED** / Password: **RedAdademy!#**
 - Stuff we use in this class. (FREE) code editor like:<br />
   **[Sublime Text](http://www.sublimetext.com/)** or **[Atom](https://atom.io/)** (Mac or Windows)<br />
