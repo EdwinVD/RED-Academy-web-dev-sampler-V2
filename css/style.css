@@ -35,6 +35,9 @@
 html,
 body {
   overflow-x: hidden;
+  background-image: url(https://www.redacademy.com/wp-content/uploads/2015/11/RED-video-to-background-opt.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 img {
@@ -98,9 +101,6 @@ a {
 
 .container {
    max-width: 28rem;
-    background-image: url(https://www.redacademy.com/wp-content/uploads/2015/11/RED-video-to-background-opt.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 
 .subcontainertitle {
