@@ -6,7 +6,7 @@ class: center, middle, inverse
 
 # Dive Into HTML & CSS
 
-.title-logo[![Red logo](img/red-logo-white.svg)]
+.title-logo[![Red logo](img/red-logo-white.svg)] Toronto
 
 ---
 layout: false
