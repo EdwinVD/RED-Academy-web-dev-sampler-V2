@@ -15,7 +15,7 @@ layout: false
 
 - Slides:<br />
  http://edwinvd.github.io/web-dev-sampler-master-V2/<br />
- or http://goo.gl/KXocNU
+ Or http://goo.gl/KXocNU
 - Wifi: **CORP_RED** / Password: **RedAdademy!#**
 - Stuff we use in this class. (FREE) code editor like:<br />
   **[Sublime Text](http://www.sublimetext.com/)** or **[Atom](https://atom.io/)** (Mac or Windows)<br />
